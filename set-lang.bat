@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "%USERPROFILE%\Downloads\set-japanese.ps1"
